@@ -11,3 +11,8 @@
 .medium {
   font-size: 24px;
 }
+
+#two {
+  background-color: rgb(195, 255, 179);
+  font-weight: bold;
+}
